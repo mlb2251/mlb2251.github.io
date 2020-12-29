@@ -28,10 +28,12 @@ twitter_username: mattlbowers
 github_username:  mlb2251
 
 # Build settings
-theme: minimal-mistakes-jekyll
+#theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.21.0"
 minimal_mistakes_skin: "dirt"
-#plugins:
-#  - jekyll-feed
+plugins:
+  - jekyll-include-cache
+# - jekyll-feed
 
 author:
   name     : "Matt Bowers"

@@ -264,9 +264,8 @@ PLATFORMS
   universal-darwin-19
 
 DEPENDENCIES
-  github-pages (~> 209)
-  jekyll-feed (~> 0.12)
-  minima (~> 2.5)
+  github-pages
+  jekyll-include-cache
   minimal-mistakes-jekyll
   tzinfo (~> 1.2)
   tzinfo-data
