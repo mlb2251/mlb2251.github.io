@@ -12,11 +12,11 @@ I'm a PhD candidate in CSAIL at MIT co-advised by [Armando Solar-Lezama](https:/
 
 A list of publications can be found on my [Google Scholar](https://scholar.google.com/citations?user=ghdbIsoAAAAJ), my resume can be found [here](resume.pdf), and my GitHub is [here](https://github.com/mlb2251).
 
-See our latest work, presented at the NeurIPS 2020 Workshop on Computer-Assisted Programming Workshop and submitted to ICLR 2021: [Representing Partial Programs with Blended Abstract Semantics](https://arxiv.org/pdf/2012.12964).
+See our latest work, presented at the NeurIPS 2020 Workshop on Computer-Assisted Programming and submitted to ICLR 2021: [Representing Partial Programs with Blended Abstract Semantics](https://arxiv.org/pdf/2012.12964).
 
 # Research
-My primary research interests are in program synthesis and its applications to artificial intelligence. I'm particularly interested in neurosymbolic methods, the broad class of approaches to learning systems that combine deep learning with techniques from the programming language community. I see program induction as a promising approach designing learning systems that share more features with human cognition (rule-based reasoning, low-data learning, generalization, interpretability). Some of the areas I'm interested in recently include:
-- Improving how we represent programs as in our [Blended Abstract Semantics](https://arxiv.org/pdf/2012.12964) work.
+My primary research interest is in program synthesis and its applications to artificial intelligence. I'm particularly interested in neurosymbolic methods, learning systems that combine deep learning with synthesis techniques from the programming language community. I see program induction as a promising approach to designing learning systems that share more features with human cognition (including rule-based reasoning, low-data learning, generalization, interpretability). Some of the areas I'm interested in recently include:
+- Improving how we represent programs in deep learning as in our [Blended Abstract Semantics](https://arxiv.org/pdf/2012.12964) work.
 - Concept/library learning and compression, as in [DreamCoder](https://arxiv.org/abs/2006.08381).
 - Applying neurosymbolic program synthesis to developing interpretable scientific models, as in our [NSF Expeditions](http://www.neurosymbolic.org/) project.
 - Search mechanisms that use learned symbolic components, such as the predicate learning of [BUSTLE](https://arxiv.org/abs/2007.14381) and [Property Signatures](https://arxiv.org/abs/2002.09030).
