@@ -10,7 +10,7 @@ classes: wide
 
 I'm a PhD candidate in CSAIL at MIT co-advised by [Armando Solar-Lezama](https://people.csail.mit.edu/asolar/) in EECS and [Josh Tenenbaum](http://cocosci.mit.edu/josh) in BCS. My research is in program synthesis and artificial intelligence.
 
-A list of publications can be found on my [Google Scholar](https://scholar.google.com/citations?user=ghdbIsoAAAAJ), my resume can be found [here](resume.pdf), and my GitHub is [here](https://github.com/mlb2251).
+A list of publications can be found on my [Google Scholar](https://scholar.google.com/citations?user=ghdbIsoAAAAJ), my resume can be found [here](resume.pdf), and my GitHub is [here](https://github.com/mlb2251). Contact me by [email](mailto:mlbowers@csail.mit.edu).
 
 See our latest work, presented at the NeurIPS 2020 Workshop on Computer-Assisted Programming and submitted to ICLR 2021: [Representing Partial Programs with Blended Abstract Semantics](https://arxiv.org/pdf/2012.12964).
 
