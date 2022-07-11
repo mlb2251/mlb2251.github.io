@@ -12,7 +12,9 @@ I'm a PhD candidate in CSAIL at MIT co-advised by [Armando Solar-Lezama](https:/
 
 A list of publications can be found on my [Google Scholar](https://scholar.google.com/citations?user=ghdbIsoAAAAJ), my resume can be found [here](resume.pdf), and my GitHub is [here](https://github.com/mlb2251). You can contact me by [email](mailto:mlbowers@csail.mit.edu).
 
-See our latest work, presented at the NeurIPS 2020 Workshop on Computer-Assisted Programming and accepted to ICLR 2021: [Representing Partial Programs with Blended Abstract Semantics](https://arxiv.org/pdf/2012.12964).
+A preprint of our latest work *Stitch: Top-Down Synthesis for Library Learning* is available [here](stitch_jul11.pdf).
+
+<!-- latest work, presented at ICLR 2021: [Representing Partial Programs with Blended Abstract Semantics](https://arxiv.org/pdf/2012.12964).-->
 
 # Research
 My primary research interest is in program synthesis and its applications to artificial intelligence. I'm particularly interested in neurosymbolic methods, learning systems that combine deep learning with synthesis techniques from the programming language community. I see program induction as a promising approach to designing learning systems that share more features with human cognition (e.g. rule-based reasoning, low-data learning, generalization, interpretability). Some of the areas I'm interested in recently include:
