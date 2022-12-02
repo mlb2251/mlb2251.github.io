@@ -8,7 +8,7 @@ classes: wide
 
 <span style="font-size:80%">Last Updated: Sept 2022</span>
 
-**Sept 2022: See the [preprint](stitch.pdf) and [code](https://github.com/mlb2251/stitch) for our latest work *Stitch: Top-Down Synthesis for Library Learning* conditionally accepted to POPL 2023! A full tutorial including Python and Rust bindings soon to come.**
+**Sept 2022: See the [paper](https://arxiv.org/abs/2211.16605) and [code](https://github.com/mlb2251/stitch) for our latest work *Stitch: Top-Down Synthesis for Library Learning* accepted to POPL 2023! See the GitHub linked above for a tutorial on using Stitch**
 
 ---
 
@@ -38,7 +38,7 @@ I'm particularly interested in abstraction learning, as in Ellis et al.'s [Dream
 
 <!-- See my [Google Scholar](https://scholar.google.com/citations?user=ghdbIsoAAAAJ) for an updated list of publications. Also check out the [preprint](stitch.pdf) of Stitch, conditionally accepted to POPL 2023. -->
 
-- [**Stitch: Top-Down Synthesis for Library Learning**](stitch.pdf) (*POPL 2023*; [**code**](https://github.com/mlb2251/stitch)).<br><u>Matthew Bowers</u>, Theo X. Olausson, Catherine Wong, Gabriel Grand, Joshua B. Tenenbaum, Kevin Ellis, Armando Solar-Lezama.
+- [**Stitch: Top-Down Synthesis for Library Learning**](https://arxiv.org/abs/2211.16605) (*POPL 2023*; [**code**](https://github.com/mlb2251/stitch)).<br><u>Matthew Bowers</u>, Theo X. Olausson, Catherine Wong, Gabriel Grand, Joshua B. Tenenbaum, Kevin Ellis, Armando Solar-Lezama.
 - [**Language Models Can Teach Themselves to Program Better**](https://arxiv.org/abs/2207.14502) (*In Submission*).<br>Patrick Haluptzok, <u>Matthew Bowers</u>, Adam Tauman Kalai.
 - [**Representing Partial Programs With Blended Abstract Semantics**](https://arxiv.org/abs/2012.12964) (*ICLR 2021*).<br>Maxwell Nye, Yewen Pu, <u>Matthew Bowers</u>,  Jacob Andreas, Joshua B. Tenenbaum, Armando Solar-Lezama. 
 - [**Universal Reshaping of arrested Colloidal Gels via Active Doping**](https://doi.org/10.1063/5.0016514) (*The Journal of Chemical Physics 2020*).<br>Stewart Mallory, <u>Matthew Bowers</u>, Angelo Cacciuto.
