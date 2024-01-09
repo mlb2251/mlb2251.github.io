@@ -21,7 +21,7 @@
 title: Maddy Bowers
 email: mlbowers@csail.mit.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  MIT PhD candidate studying AI and program synthesis
+  MIT PhD candidate studying AI and program synthesis (they/she)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://mlb2251.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mattlbowers
