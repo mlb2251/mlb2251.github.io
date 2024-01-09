@@ -38,7 +38,7 @@ plugins:
 author:
   name     : "Maddy Bowers"
   avatar   : "/assets/images/profpic.jpg"
-  bio      : "MIT PhD candidate studying AI and program synthesis"
+  bio      : "MIT PhD candidate studying AI and program synthesis (they/she)"
   location : "Cambridge, MA"
   links:
       - label: "Email"
