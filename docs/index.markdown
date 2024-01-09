@@ -20,6 +20,8 @@ My research interests center on program synthesis and artificial intelligence. I
 
 I'm particularly interested in abstraction learning, as in Ellis et al.'s [DreamCoder](https://arxiv.org/abs/2006.08381). I recently led a follow up work called Stitch ([paper](https://arxiv.org/abs/2211.16605) & [code](https://github.com/mlb2251/stitch)) which has been accepted to POPL 2023 and achieves a 1,000-10,000x speedup in abstraction learning over DreamCoder. I'm interested in exploring new applications of abstraction learning, and I'm particularly interested in its application to game-playing environments in world-model building and policy learning.
 
+I previously published as Matthew Bowers.
+
 # Links
 
 - 📚 [Publications](#publications)
