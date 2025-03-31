@@ -50,10 +50,6 @@ author:
       - label: "Twitter"
         icon: "fab fa-fw fa-twitter-square"
         url: "https://twitter.com/mattlbowers"
-      - label: "LinkedIn"
-        icon: "fab fa-fw fa-linkedin"
-        url: "https://www.linkedin.com/in/matthew-bowers-134398156/"
-
 footer:
   links:
     - label: "GitHub"
