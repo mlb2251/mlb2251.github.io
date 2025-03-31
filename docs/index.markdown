@@ -26,10 +26,10 @@ I previously published as Matthew Bowers.
 # Publications
 
 <!-- - [**Stochastic Lazy Knowledge Compilation for Inference in Discrete Probabilistic Programs**] (*Conditionally Accepted to PLDI 2025*).<br><u>Maddy Bowers*</u>, Alexander K. Lew*, Joshua B. Tenenbaum, Armando Solar-Lezama, Vikash Mansinghka. -->
-- [**Lazy Knowledge Compilation for Discrete PPLs**] (*Languages For Inference Workshop at POPL 2025*).<br><u>Maddy Bowers*</u>, Alexander K. Lew*, Joshua B. Tenenbaum, Vikash Mansinghka, Armando Solar-Lezama.
-- [**Toward Probabilistic Coarse-to-Fine Program Synthesis**] (*Languages for Inference Workshop at POPL 2024*).<br><u>Maddy Bowers*</u>, Alexander K. Lew*, Vikash Mansinghka, Joshua B. Tenenbaum, Armando Solar-Lezama.
-- [**LILO: Learning Interpretable Libraries by Compressing and Documenting Code**]() (*ICLR 2024*).<br>Gabriel Grand, Lionel Wong, <u>Maddy Bowers</u>, Theo X. Olausson, Muxin Liu, Joshua B. Tenenbaum, Jacob Andreas.
-- [**Language Models Can Teach Themselves to Program Better**](https://arxiv.org/pdf/2207.14502) (*ICLR 2023*).<br>Patrick Haluptzok, <u>Maddy Bowers</u>, Adam Tauman Kalai.
+- **Lazy Knowledge Compilation for Discrete PPLs** (*Languages For Inference Workshop at POPL 2025*).<br><u>Maddy Bowers*</u>, Alexander K. Lew*, Joshua B. Tenenbaum, Vikash Mansinghka, Armando Solar-Lezama.
+- **Toward Probabilistic Coarse-to-Fine Program Synthesis** (*Languages for Inference Workshop at POPL 2024*).<br><u>Maddy Bowers*</u>, Alexander K. Lew*, Vikash Mansinghka, Joshua B. Tenenbaum, Armando Solar-Lezama.
+- [**LILO: Learning Interpretable Libraries by Compressing and Documenting Code**](https://arxiv.org/abs/2310.19791) (*ICLR 2024*).<br>Gabriel Grand, Lionel Wong, <u>Maddy Bowers</u>, Theo X. Olausson, Muxin Liu, Joshua B. Tenenbaum, Jacob Andreas.
+- [**Language Models Can Teach Themselves to Program Better**](https://arxiv.org/abs/2207.14502) (*ICLR 2023*).<br>Patrick Haluptzok, <u>Maddy Bowers</u>, Adam Tauman Kalai.
 - [**Top-Down Synthesis for Library Learning**](https://dl.acm.org/doi/10.1145/3571234) (*POPL 2023*; [**code**](https://github.com/mlb2251/stitch)).<br><u>Maddy Bowers</u>, Theo X. Olausson, Catherine Wong, Gabriel Grand, Joshua B. Tenenbaum, Kevin Ellis, Armando Solar-Lezama.
 - [**Representing Partial Programs With Blended Abstract Semantics**](https://arxiv.org/abs/2012.12964) (*ICLR 2021*).<br>Maxwell Nye, Yewen Pu, <u>Maddy Bowers</u>,  Jacob Andreas, Joshua B. Tenenbaum, Armando Solar-Lezama. 
 - [**Universal Reshaping of Arrested Colloidal Gels via Active Doping**](https://doi.org/10.1063/5.0016514) (*The Journal of Chemical Physics 2020*).<br>Stewart Mallory, <u>Maddy Bowers</u>, Angelo Cacciuto.
