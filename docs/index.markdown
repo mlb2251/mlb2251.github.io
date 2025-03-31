@@ -16,13 +16,7 @@ I'm particularly interested in abstraction learning, as in Ellis et al.'s [Dream
 
 I previously published as Matthew Bowers.
 
-Relevant Links
-- [Google Scholar](https://scholar.google.com/citations?user=ghdbIsoAAAAJ)
-- [CV](CV.pdf)
-- [Github](https://github.com/mlb2251)
-- [Bluesky](https://bsky.app/profile/mlbowers.bsky.social)
-- [Twitter](https://twitter.com/mattlbowers)
-- [Email (mlbowers@csail.mit.edu)](mailto:mlbowers@csail.mit.edu)
+[Google Scholar](https://scholar.google.com/citations?user=ghdbIsoAAAAJ) / [CV](CV.pdf) / [Github](https://github.com/mlb2251) / [Bluesky](https://bsky.app/profile/mlbowers.bsky.social) / [Twitter](https://twitter.com/mattlbowers) / [Email (mlbowers@csail.mit.edu)](mailto:mlbowers@csail.mit.edu)
 
 <!-- Prior to Stitch I worked with Max Nye on [Representing Partial Programs with Blended Abstract Semantics](https://arxiv.org/pdf/2012.12964) at ICLR 2021, and I continue to be interested of new ways of representing programs and guiding search. Search mechanisms that use learned symbolic components are particularlly interesting to me, like the predicate learning of Odena et al. in [BUSTLE: Bottom-Up Program Synthesis Through Learning-Guided Exploration](https://arxiv.org/abs/2007.14381) and [Learning to Represent Programs with Property Signatures](https://arxiv.org/abs/2002.09030). -->
 
