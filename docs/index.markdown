@@ -30,14 +30,21 @@ NSF Graduate Research Fellowship (2022) -->
 # Publications
 
 - [**Stochastic Lazy Knowledge Compilation for Inference in Discrete Probabilistic Programs**] (*PLDI 2025*).<br><u>Maddy Bowers*</u>, Alexander K. Lew*, Joshua B. Tenenbaum, Armando Solar-Lezama, Vikash Mansinghka.
-- **Lazy Knowledge Compilation for Discrete PPLs** (*Languages For Inference Workshop at POPL 2025*).<br><u>Maddy Bowers*</u>, Alexander K. Lew*, Joshua B. Tenenbaum, Vikash Mansinghka, Armando Solar-Lezama.
-- **Toward Probabilistic Coarse-to-Fine Program Synthesis** (*Languages for Inference Workshop at POPL 2024*).<br><u>Maddy Bowers*</u>, Alexander K. Lew*, Vikash Mansinghka, Joshua B. Tenenbaum, Armando Solar-Lezama.
 - [**LILO: Learning Interpretable Libraries by Compressing and Documenting Code**](https://arxiv.org/abs/2310.19791) (*ICLR 2024*).<br>Gabriel Grand, Lionel Wong, <u>Maddy Bowers</u>, Theo X. Olausson, Muxin Liu, Joshua B. Tenenbaum, Jacob Andreas.
 - [**Language Models Can Teach Themselves to Program Better**](https://arxiv.org/abs/2207.14502) (*ICLR 2023*).<br>Patrick Haluptzok, <u>Maddy Bowers</u>, Adam Tauman Kalai.
 - [**Top-Down Synthesis for Library Learning**](https://dl.acm.org/doi/10.1145/3571234) (*POPL 2023*; *William A. Martin Master’s Thesis Award (2024)*, [**code**](https://github.com/mlb2251/stitch)).<br><u>Maddy Bowers</u>, Theo X. Olausson, Lionel Wong, Gabriel Grand, Joshua B. Tenenbaum, Kevin Ellis, Armando Solar-Lezama.
 - [**Representing Partial Programs With Blended Abstract Semantics**](https://arxiv.org/abs/2012.12964) (*ICLR 2021*).<br>Maxwell Nye, Yewen Pu, <u>Maddy Bowers</u>,  Jacob Andreas, Joshua B. Tenenbaum, Armando Solar-Lezama. 
 - [**Universal Reshaping of Arrested Colloidal Gels via Active Doping**](https://doi.org/10.1063/5.0016514) (*The Journal of Chemical Physics 2020*).<br>Stewart Mallory, <u>Maddy Bowers</u>, Angelo Cacciuto.
 - [**Active Sculpting of Colloidal Crystals**](https://doi.org/10.1063/1.5082949) (*The Journal of Chemical Physics 2019*).<br>Shibananda Das, <u>Maddy Bowers</u>, Clara Bakker, Angelo Cacciuto.
+
+# Workshop papers
+
+- **Lazy Knowledge Compilation for Discrete PPLs** (*Languages For Inference Workshop at POPL 2025*).<br><u>Maddy Bowers*</u>, Alexander K. Lew*, Joshua B. Tenenbaum, Vikash Mansinghka, Armando Solar-Lezama.
+- **MathDSL: A Domain-Specific Language for Concise Mathematical Solutions Via Program Synthesis** (*Math-AI workshop at NeurIPS 2025*).<br>Sagnik Anupam, <u>Maddy Bowers</u>, Omar Costilla-Reyes, Armando Solar-Lezama.
+- **Concept Learning as Coarse-to-Fine Probabilistic Program Induction** (*Poster (Abstract) at CogSci 2024*; [poster](poster_ctf.pdf)).<br><u>Maddy Bowers*</u>, Alexander K. Lew*, Wenhao Qi, Vikash Mansinghka, Joshua Rule, Joshua B. Tenenbaum, Armando Solar-Lezama.
+- **Toward Probabilistic Coarse-to-Fine Program Synthesis** (*Languages for Inference Workshop at POPL 2024*).<br><u>Maddy Bowers*</u>, Alexander K. Lew*, Vikash Mansinghka, Joshua B. Tenenbaum, Armando Solar-Lezama.
+- **Codeplay: Autotelic Learning through Collaborative Self-Play in Programming Environments** (*Intrinsically Motivated Open-ended Learning Workshop at NeurIPS 2024*).<br> Laetitia Teodorescu, Cédric Colas, <u>Maddy Bowers*</u>, Thomas Carta, Pierre-Yves Oudeyer.
+
 
 
 <!-- # Background
