@@ -46,6 +46,8 @@ I previously published as Matthew Bowers.
 - William A. Martin Master’s Thesis Award (2024) ([Master's Thesis](https://dspace.mit.edu/handle/1721.1/151374))
 - NSF Graduate Research Fellowship (2022)
 
+See my [CV](CV.pdf) for earlier awards
+
 
 
 <!-- # Background
