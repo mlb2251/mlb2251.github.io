@@ -22,10 +22,6 @@ I previously published as Matthew Bowers.
 
 <!-- I worked in chemistry in the past and am also interested in applications of neurosymbolic program synthesis to developing interpretable scientific models, as in our [NSF Expeditions](http://www.neurosymbolic.org/) project. -->
 
-<!-- # Awards
-
-William A. Martin Master’s Thesis Award (2024)
-NSF Graduate Research Fellowship (2022) -->
 
 # Conference Publications
 
@@ -44,6 +40,11 @@ NSF Graduate Research Fellowship (2022) -->
 - **Concept Learning as Coarse-to-Fine Probabilistic Program Induction** (*Poster (Abstract) at CogSci 2024*; [poster](poster_ctf.pdf)).<br><u>Maddy Bowers*</u>, Alexander K. Lew*, Wenhao Qi, Vikash Mansinghka, Joshua Rule, Joshua B. Tenenbaum, Armando Solar-Lezama.
 - **Toward Probabilistic Coarse-to-Fine Program Synthesis** (*Languages for Inference Workshop at POPL 2024*).<br><u>Maddy Bowers*</u>, Alexander K. Lew*, Vikash Mansinghka, Joshua B. Tenenbaum, Armando Solar-Lezama.
 - **Codeplay: Autotelic Learning through Collaborative Self-Play in Programming Environments** (*Intrinsically Motivated Open-ended Learning Workshop at NeurIPS 2024*).<br> Laetitia Teodorescu, Cédric Colas, <u>Maddy Bowers*</u>, Thomas Carta, Pierre-Yves Oudeyer.
+
+# Awards
+
+- William A. Martin Master’s Thesis Award (2024)
+- NSF Graduate Research Fellowship (2022)
 
 
 
