@@ -1,0 +1,3 @@
+User-agent: GoogleBot-Scholar
+Disallow: /pluck_pldi2025.pdf.pdf
+
