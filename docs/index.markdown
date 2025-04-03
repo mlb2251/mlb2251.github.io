@@ -8,7 +8,7 @@ classes: wide
 
 I'm a PhD student at MIT co-advised by [Armando Solar-Lezama](https://people.csail.mit.edu/asolar/) in EECS and [Josh Tenenbaum](http://cocosci.mit.edu/josh) in BCS. My research combines methods from programming languages (PL) research with machine learning to tackle problems in artificial intelligence.
 
-New draft of my latest work, accepted to PLDI 2025: [*Stochastic Lazy Knowledge Compilation for Inference in Discrete Probabilistic Programs*](pluck_pldi2025.pdf); the [code artifact](https://github.com/mlb2251/pluck-artifact) is still being reviewed, but we will polish and fully release a Pluck library and tutorial in the next few weeks ([tutorial preview](https://github.com/mlb2251/PluckArtifactDependency.jl/blob/9df334af11a53a9dc51d7fe6b78b63d3331994a8/USAGE.md)).
+New draft of my latest work, *Pluck*, accepted to PLDI 2025: [*Stochastic Lazy Knowledge Compilation for Inference in Discrete Probabilistic Programs*](pluck_pldi2025.pdf); the [code artifact](https://github.com/mlb2251/pluck-artifact) is still being reviewed, but we will polish and fully release a Pluck library and tutorial in the next few weeks ([tutorial preview](https://github.com/mlb2251/PluckArtifactDependency.jl/blob/9df334af11a53a9dc51d7fe6b78b63d3331994a8/USAGE.md)).
 
 <!-- Also check out my work Stitch, published in POPL 2023: [*Top-Down Synthesis for Library Learning*](https://dl.acm.org/doi/10.1145/3571234); with [code](https://github.com/mlb2251/stitch) along with [tutorial & docs](https://stitch-bindings.readthedocs.io/en/stable/). -->
 
